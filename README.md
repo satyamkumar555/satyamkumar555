@@ -1,151 +1,173 @@
 
-<h1 align="center">Hey, I'm Satyam Kumar 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Founder @ AI AgriRover | Full-Stack Developer | Robotics & AI Engineer
-</h3>
+# ⚡ SATYAM KUMAR
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Agricultural+Robots;Full-Stack+%26+Android+Developer;Robotics+%7C+IoT+%7C+Embedded+Systems;Turning+Ideas+Into+Real-World+Solutions" alt="Typing animation" />
-</p>
+### `Founder @ AI AgriRover` • `Full-Stack Developer` • `Robotics & AI`
 
-<p align="center">
-  <a href="https://github.com/satyamkumar555">
-    <img src="https://img.shields.io/badge/GitHub-satyamkumar555-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-8665ba2a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:satyambth311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00F7FF&background=0D111700&center=true&vCenter=true&width=750&lines=%3E+Building+AI-powered+Agricultural+Robots;%3E+Full-Stack+%26+Android+Developer;%3E+Robotics+%7C+IoT+%7C+Embedded+Systems;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ROBOTICS-00F7FF?style=for-the-badge&labelColor=090B10" />
+<img src="https://img.shields.io/badge/BUILDING-REAL%20WORLD%20TECH-9D4EDD?style=for-the-badge&labelColor=090B10" />
+
+<br/>
+
+<a href="https://github.com/satyamkumar555">
+<img src="https://img.shields.io/badge/GitHub-Profile-00F7FF?style=flat-square&logo=github&logoColor=white&labelColor=090B10"/>
+</a>
+<a href="https://www.linkedin.com/in/satyam-kumar-8665ba2a7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=flat-square&logo=linkedin&logoColor=white&labelColor=090B10"/>
+</a>
+<a href="mailto:satyambth311@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=flat-square&logo=gmail&logoColor=white&labelColor=090B10"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `01` // WHO AM I?
 
-I'm a Computer Science and Design student, Full-Stack & Android Developer, and Founder & Lead Engineer at **AI AgriRover Private Limited**.
+```text
+NAME       : Satyam Kumar
+ROLE       : Founder & Lead Engineer
+COMPANY    : AI AgriRover Private Limited
+EDUCATION  : B.Tech — Computer Science & Design
+INTERESTS  : Artificial Intelligence, Robotics, IoT
+MISSION    : Build technology that solves real problems.
+```
 
-I enjoy building practical technology that solves real-world problems — from AI-powered agricultural robots to full-stack web platforms and Android applications.
+- 🤖 Developing an AI-powered agricultural robotics solution.
+- 💻 Building full-stack web platforms with Next.js and TypeScript.
+- 📱 Creating Android applications with Java and Firebase.
+- ⚙️ Working with embedded systems, wireless communication and Raspberry Pi.
+- 🧠 Always learning, experimenting and building.
 
-- 🌱 Building **AgriRover**, a low-cost agricultural robotics solution.
-- 🤖 Exploring AI, Robotics, IoT and Embedded Systems.
-- 💻 Developing modern web applications using Next.js and TypeScript.
-- 📱 Building Android applications using Java and Firebase.
-- 🧑‍🏫 President & Head of the Drone and Robotics Lab.
-- 🎓 B.Tech in Computer Science and Design — Expected 2027.
-- ⚡ I love engineering, experimenting and turning ideas into working products.
+---
 
-## 🏢 What I'm Building
+## `02` // TECH ARSENAL
+
+### PROGRAMMING LANGUAGES
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
+
+### WEB & BACKEND
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,html,css,tailwind&theme=dark" />
+
+### ANDROID, CLOUD & DATABASES
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb,mysql&theme=dark" />
+
+### ROBOTICS & DEVELOPMENT TOOLS
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode&theme=dark" />
+
+---
+
+## `03` // PROJECTS IN DEVELOPMENT
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI AgriRover
 
-An agricultural robotics project focused on helping small and medium farmers through automation.
+**AGRICULTURAL ROBOTICS**
 
-**Key areas:**
-- Remote-controlled agricultural robot.
-- Pesticide spraying, fertilizer spreading and seed sowing.
-- High-torque drivetrain, battery system and steel chassis.
-- Long-range wireless control.
-- Raspberry Pi-based machine learning for plant-health detection.
+A remote-controlled agricultural robot designed to automate farming tasks.
+
+- Smart spraying and seed sowing
+- High-torque drivetrain
+- Wireless control system
+- Raspberry Pi-based plant-health detection
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Tekurious Skills
 
-A full-stack EdTech platform for coding, robotics and AI education.
+**FULL-STACK EDTECH**
 
-**Built with:**
-- Next.js, React and TypeScript.
-- Tailwind CSS and Framer Motion.
-- Node.js and Express.js.
-- Firebase Authentication and Firestore.
-- Registration forms, enquiry management and admin dashboard.
+A platform for coding, robotics and AI education.
 
-## 🛠️ Tech Stack
+- Next.js & TypeScript
+- Node.js & Express API
+- Firebase Authentication
+- Admin dashboard and registration management
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" alt="Programming languages"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,html,css,tailwind" alt="Web development"/>
-</p>
+### 📱 PujaMandal
 
-### Android & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mongodb,mysql" alt="Android and backend technologies"/>
-</p>
+**ANDROID APPLICATION**
 
-### Robotics & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode" alt="Robotics and development tools"/>
-</p>
+- Java & Android XML
+- Firebase Authentication
+- Firestore booking workflow
+- Real-time chat
 
-**Also familiar with:** Embedded C, NRF wireless modules, REST APIs, Firebase Cloud Functions, Zod, Vitest and OOP.
+</td>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### 📡 Wireless Communication System
 
-### 1. AI AgriRover
-Agricultural robot designed to automate farming operations and explore ML-based plant-health detection.
+**EMBEDDED SYSTEMS**
 
-### 2. Tekurious Skills
-Full-stack educational platform featuring course information, student registrations, enquiry management and a role-protected admin dashboard.
+- Arduino and NRF modules
+- Wired repeaters
+- Extended communication range
+- Embedded C
 
-### 3. PujaMandal — Android App
-An Android application connecting users with Pandits, featuring authentication, booking workflows and real-time chat.
-
-**Technologies:** Java, Android XML, Firebase Authentication, Firestore and Realtime Database.
-
-### 4. Private Wireless Communication System
-A private wireless network with wired repeaters to extend communication range.
-
-**Technologies:** Arduino, NRF modules, wired repeaters and Embedded C.
-
-## 🏆 Achievements & Recognition
-
-- 🥇 AI AgriRover prototype achievement — ₹5,00,000 prize, as listed in my resume.
-- 💰 Investo Pitch 2026 funding — ₹1,00,000.
-- 🌱 College seed grant — ₹50,000.
-- 🏅 4th rank in SIH Prequalifier 2025.
-- 🏆 Winner — National Level Offline Project Competition, TECHNOTHON 2024.
-- 📜 NPTEL Java Programming Certification — IIT Kharagpur, 79%.
-- 📚 Research publication: *Making a Custom Transmitter and Receiver Implement on RC Plane* — IJIRCCE, October 2023.
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar555&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyamkumar555&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/satyamkumar555/satyamkumar555/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## `04` // GITHUB PERFORMANCE
 
-I'm always interested in connecting with developers, innovators, robotics enthusiasts and people building impactful technology.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/satyamkumar555">GitHub</a> •
-  <a href="https://www.linkedin.com/in/satyam-kumar-8665ba2a7">LinkedIn</a> •
-  <a href="mailto:satyambth311@gmail.com">Email Me</a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamkumar555&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=9D4EDD&text_color=C9D1D9&rank_icon=github" />
 
-<p align="center">
-  <b>💡 Innovate. Build. Automate. Repeat.</b>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar555&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
 
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
-</p>
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=satyamkumar555&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F7FF&fire=9D4EDD&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+## `05` // ACHIEVEMENTS & RECOGNITION
+
+- 🏆 AI AgriRover prototype prize — ₹5,00,000, as listed in my resume.
+- 🚀 Investo Pitch 2026 grant — ₹1,00,000.
+- 🌱 College seed grant — ₹50,000.
+- 🥇 4th rank — SIH Prequalifier 2025.
+- 🏆 Winner — TECHNOTHON 2024, National Level Project Competition.
+- 📜 NPTEL Java Programming — IIT Kharagpur, 79%.
+- 📄 Research publication — IJIRCCE, October 2023.
+
+---
+
+## `06` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/satyamkumar555/satyamkumar555/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> SYSTEM STATUS: BUILDING SOMETHING NEW_`
+
+**Innovate. Build. Automate. Repeat.**
+
+<img src="https://komarev.com/ghpvc/?username=satyamkumar555&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+
+</div>
